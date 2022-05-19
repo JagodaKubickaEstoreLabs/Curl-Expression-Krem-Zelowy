@@ -583,7 +583,7 @@ section{
 #es-loreal.es-loreal .es-cross {
   background: #fff;
   margin-bottom: 56px;
-  background-image: url(https://fancy-truffle-6f1e81.netlify.app/img/PACKSHOTY.png);
+  background-image: url(img/PACKSHOTY.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -857,7 +857,7 @@ section{
   font-weight: bolder;
 }
 .es-use__img {
-  background-image: url(https://fancy-truffle-6f1e81.netlify.app/img/MODELKA-1.png);
+  background-image: url(img/MODELKA-1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
