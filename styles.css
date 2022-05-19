@@ -348,6 +348,7 @@ section{
 }
 
 .es-specification__text {
+  min-height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
