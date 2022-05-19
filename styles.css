@@ -787,7 +787,7 @@ section{
   }
   .es-cross__container {
     display: grid !important;
-    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
   }
   .es-cross__content {
     margin: 0 auto;
