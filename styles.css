@@ -838,7 +838,7 @@ section{
   }
 }
 /* how to use */
-.es-use__container {
+.es-use {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   min-height: 300px;
@@ -846,14 +846,14 @@ section{
   max-width: 750px;
   margin: 0 auto;
 }
-.es-use__text {
+.es-use__container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   padding: 32px;
 }
-.es-use__title {
+.es-use__text__title {
   font-size: 26px;
   font-weight: bolder;
 }
